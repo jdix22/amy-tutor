@@ -3,7 +3,7 @@
 JK–Grade 3 tutoring site for Amy (B.Ed., OCT, Special Education Specialist, Sounds-Write trained).
 Built from her flyer, November 2026, with her edits of 2 Nov 2026. Single static page, no build step.
 
-Live preview: https://jdix22.github.io/amy-tutor/
+Live preview: https://tutoringbeyond.ca/
 
 ## Amy's wording rules
 
@@ -31,7 +31,7 @@ Everything on the page comes from her flyer and her edits. These were not given,
 4. Owner to-dos: claim a Google Business Profile (service-area business: Thornhill, Richmond Hill, Maple, no public address),
    use the same name, phone and email everywhere, and ask happy families for Google reviews.
 
-The `?name=` link trick still works for trying other names: https://jdix22.github.io/amy-tutor/?name=Another%20Name
+The `?name=` link trick still works for trying other names: https://tutoringbeyond.ca/?name=Another%20Name
 
 ## Files
 
